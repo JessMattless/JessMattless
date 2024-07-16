@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Jess</h1>
-<h3 align="center">A Software Engineering student at NTU</h3>
+<h3 align="center">A Software Engineering graduate from Nottingham Trent University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessmattless&label=Profile%20views&color=44c3c5&style=flat" alt="jessmattless" /> </p>
 
