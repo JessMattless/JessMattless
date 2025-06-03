@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessmattless&label=Profile%20views&color=44c3c5&style=flat" alt="jessmattless" /> </p>
 
-- 🔭 I’m currently working on [A Sonic the Hedgehog 2 Clone](https://github.com/JessMattless/Sonic-2)
+- 🔭 I’m currently working on [A 32-bit Operating System](https://github.com/JessMattless/OS_P)
 
-- 🌱 I’m currently learning **SDL, Android Studio & Qt**
+- 🌱 I’m currently learning **SDL, C & Assembly**
 
 - 👨‍💻 All of my projects are available at [https://jessmattless.github.io](https://jessmattless.github.io)
 
